@@ -57,3 +57,136 @@ Focus Areas:
   - Cybersecurity Awareness & Education
 
 Fun Fact : I turn security vulnerabilities into learning opportunities! 🔐
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 Experience & Journey
+
+<table>
+  <tr>
+    <td>
+      <h3>🔐 Vulnerability Scanner</h3>
+      <b><a href="#">Live Project</a></b> — <i>2026</i><br/>
+      <sub>Built with Python · Web Security Concepts · Detects vulnerabilities in web applications · Focus on secure coding practices</sub>
+    </td>
+    <td>
+      <h3>🎓 Education</h3>
+      <b>B.Tech CSE (Cyber Security)</b><br/>
+      Siddhartha Institute of Technology and Science, Hyderabad — <i>2023–Present</i><br/>
+      <sub>Cybersecurity · Web Development · DBMS · Computer Networks · Operating Systems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎓 Student Dashboard</h3>
+      <b><a href="#">Live Project</a></b> — <i>2025–2026</i><br/>
+      <sub>Built with HTML · CSS · JavaScript · Node.js · MongoDB · Smart dashboard for managing student data</sub>
+    </td>
+    <td>
+      <h3>🏆 Achievements</h3>
+      <b>Projects in Cybersecurity & Web Development</b><br/>
+      <sub>Vulnerability Scanner · Fraud Detection System · Student Dashboard</sub><br/><br/>
+      <b>Hackathons:</b> Actively participating in Hackathons & Coding Events
+    </td>
+  </tr>
+</table>
+
+> 🔥 *Passionate about cybersecurity — focused on building secure, real-world applications and continuously improving my skills.*
+
+
+## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=light" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=light" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=light" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker&theme=light" />
+
+### 🔐 Cybersecurity & Tools
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode&theme=light" />
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pendalwarmadhukar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendalwarmadhukar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="55%" src="https://streak-stats.demolab.com?user=pendalwarmadhukar&theme=tokyonight&hide_border=true&border_radius=8"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendalwarmadhukar&theme=tokyo-night&hide_border=true&area=true&custom_title=Pendalwar%20Madhukar%20Contribution%20Graph"/>
+</div>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=pendalwarmadhukar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" 
+    alt="GitHub Trophies"
+  />
+</div>
+
+
+
+## 💡 My Engineering Principles
+
+```
+01  →  Design the system before you write a single line of code
+02  →  Non-blocking async architecture is a baseline, not a bonus
+03  →  Database schemas are contracts — design them seriously
+04  →  Performance is a feature, not an afterthought
+05  →  Write code for the next engineer, not just for today
+06  →  Every project is a product — ship with intention
+```
+## 📫 Let's Connect & Build
+
+<div align="center">
+
+### 🤝 Open to Internships · Collaborations · Cybersecurity Roles
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=7C3AED&center=true&width=550&lines=Cybersecurity+%7C+Web+Development+%7C+AI;Building+secure+and+scalable+applications;Let’s+build+something+great+%F0%9F%9A%80"/>
+
+<br/>
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"Building secure systems today for a safer digital tomorrow."*
+
+<br/>
+
+**⚡ Learn · Build · Secure · Repeat ⚡**
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:4F46E5&height=130&section=footer"/>
+</div>
