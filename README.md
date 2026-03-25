@@ -96,9 +96,6 @@ Fun Fact : I turn security vulnerabilities into learning opportunities! 🔐
 
 > 🔥 *Passionate about cybersecurity — focused on building secure, real-world applications and continuously improving my skills.*
 
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -120,8 +117,6 @@ Fun Fact : I turn security vulnerabilities into learning opportunities! 🔐
 
 </div>
 
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
