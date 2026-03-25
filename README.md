@@ -123,17 +123,30 @@ Fun Fact : I turn security vulnerabilities into learning opportunities! 🔐
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pendalwarmadhukar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendalwarmadhukar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=pendalwarmadhukar&theme=tokyonight&hide_border=true&border_radius=8"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pendalwarmadhukar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendalwarmadhukar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendalwarmadhukar&theme=tokyo-night&hide_border=true&area=true&custom_title=Pendalwar%20Madhukar%20Contribution%20Graph"/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=pendalwarmadhukar&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendalwarmadhukar&theme=tokyo-night&hide_border=true&area=true&custom_title=Pendalwar%20Madhukar%20Contribution%20Graph"/>
+
 </div>
 
 
