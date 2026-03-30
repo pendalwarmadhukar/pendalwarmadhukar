@@ -102,14 +102,14 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
   <tr>
     <td width="50%" valign="top">
       <h3>🎫 Out Pass — Leave Management System</h3>
-      <b>HTML · CSS · JS · Node.js · MongoDB · 2025–2026</b><br/><br/>
+      <b>React · Node.js · MongoDB · 2025–2026</b><br/><br/>
       <sub>
         Digital student outpass and leave management system for college use. Allows students to request leave approvals online, enables faculty to approve/reject requests, and maintains a full audit trail. Reduces paperwork and speeds up the approval process.
       </sub>
     </td>
     <td width="50%" valign="top">
       <h3>☁️ CloudShield</h3>
-      <b>Python · Cloud Security · AWS · 2026</b><br/><br/>
+      <b>React · Node.js · MongoDB · Cloud Security · AWS · 2026</b><br/><br/>
       <sub>
         Cloud vulnerability scanner that audits cloud infrastructure for misconfigurations, exposed resources, and security policy violations. Helps identify risks in cloud environments before attackers do.
       </sub>
