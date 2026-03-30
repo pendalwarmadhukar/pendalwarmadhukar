@@ -2,11 +2,14 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=240&section=header&text=Madhukar%20Pendalwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20Ethical%20Hacker&descSize=19&descAlignY=58&descColor=7DD3FC"/>
 </div>
+
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Securing+the+digital+world%2C+one+line+at+a+time;Red+Team+%7C+Blue+Team+%7C+Security+Analyst;Building+secure+web+applications+%F0%9F%94%90;From+Hyderabad+%E2%80%94+learning%2C+building%2C+securing+%F0%9F%8C%8D" alt="Typing SVG"/>
 </div>
+
 <br/>
+
 <!-- Social Badges -->
 <div align="center">
   <a href="https://linkedin.com/in/madhukar-pendalwar-2a5746348">
@@ -21,13 +24,15 @@
     <img src="https://img.shields.io/badge/GitHub-pendalwarmadhukar-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pendalwarmadhukar&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Security%20Roles-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20In-Hyderabad%2C%20India%20🇮🇳-f59e0b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based%20In-Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-f59e0b?style=flat-square"/>
 </div>
 
 ---
@@ -39,7 +44,7 @@
 ```yaml
 Name     : Pendalwar Madhukar
 Role     : Cybersecurity Student & Full-Stack Developer
-Degree   : B.Tech CSE (Cyber Security) — 2023–2027 (Expected: 2027)
+Degree   : B.Tech CSE (Cyber Security) — 2024–2028 (Expected: 2028)
 College  : Siddhartha Institute of Technology & Science, Hyderabad
 Contact  : +91 7032275226
 Email    : madhukarpendalwar43@gmail.com
@@ -89,7 +94,7 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
       <br/>
       <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-0ea5e9?style=for-the-badge&logoColor=white"/><br/><br/>
       <img src="https://img.shields.io/badge/Specialization-Cyber%20Security-22c55e?style=for-the-badge&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Batch-2024–2028-f59e0b?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Batch-2024--2028-f59e0b?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -103,6 +108,9 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
     <td width="50%" valign="top">
       <h3>🎫 Out Pass — Leave Management System</h3>
       <b>React · Node.js · MongoDB · 2025–2026</b><br/><br/>
+      <a href="https://github.com/pendalwarmadhukar/outpass">
+        <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a><br/><br/>
       <sub>
         Digital student outpass and leave management system for college use. Allows students to request leave approvals online, enables faculty to approve/reject requests, and maintains a full audit trail. Reduces paperwork and speeds up the approval process.
       </sub>
@@ -110,11 +118,16 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
     <td width="50%" valign="top">
       <h3>☁️ CloudShield</h3>
       <b>React · Node.js · MongoDB · Cloud Security · AWS · 2026</b><br/><br/>
+      <a href="https://github.com/pendalwarmadhukar/cloudshield">
+        <img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a><br/><br/>
       <sub>
         Cloud vulnerability scanner that audits cloud infrastructure for misconfigurations, exposed resources, and security policy violations. Helps identify risks in cloud environments before attackers do.
       </sub>
     </td>
   </tr>
+  <tr>
+    
 </table>
 
 > 🔥 *Passionate about cybersecurity — building secure, real-world applications while continuously sharpening offensive and defensive skills.*
@@ -162,7 +175,7 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendalwarmadhukar&theme=tokyo-night&hide_border=true&area=true&custom_title=Madhukar%20Pendalwar%20—%20Contribution%20Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendalwarmadhukar&theme=tokyo-night&hide_border=true&area=true&custom_title=Madhukar%20Pendalwar%20%E2%80%94%20Contribution%20Graph"/>
 </div>
 
 ---
@@ -195,7 +208,7 @@ Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
 
 ### 🤝 Open to Internships · Collaborations · Cybersecurity Roles
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0EA5E9&center=true&width=600&lines=Cybersecurity+%7C+Web+Development+%7C+Ethical+Hacking;Building+secure+and+scalable+applications+🚀;Let's+build+something+great+together!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0EA5E9&center=true&width=600&lines=Cybersecurity+%7C+Web+Development+%7C+Ethical+Hacking;Building+secure+and+scalable+applications+%F0%9F%9A%80;Let%27s+build+something+great+together%21"/>
 
 <br/>
 
