@@ -2,14 +2,11 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=240&section=header&text=Madhukar%20Pendalwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20Ethical%20Hacker&descSize=19&descAlignY=58&descColor=7DD3FC"/>
 </div>
-
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=🛡️+Securing+the+digital+world%2C+one+line+at+a+time;Red+Team+%7C+Blue+Team+%7C+Security+Analyst;Building+secure+web+applications+🔐;From+Hyderabad+—+learning%2C+building%2C+securing+🌍" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Securing+the+digital+world%2C+one+line+at+a+time;Red+Team+%7C+Blue+Team+%7C+Security+Analyst;Building+secure+web+applications+%F0%9F%94%90;From+Hyderabad+%E2%80%94+learning%2C+building%2C+securing+%F0%9F%8C%8D" alt="Typing SVG"/>
 </div>
-
 <br/>
-
 <!-- Social Badges -->
 <div align="center">
   <a href="https://linkedin.com/in/madhukar-pendalwar-2a5746348">
@@ -24,9 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-pendalwarmadhukar-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pendalwarmadhukar&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
   &nbsp;
