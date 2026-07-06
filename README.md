@@ -6,7 +6,9 @@
 <!-- Typing Animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=☁️+Aspiring+Cloud+Security+Engineer;🔐+Cyber+Security+Student;🛡️+AWS+Cloud+Security+%7C+IAM+%7C+Linux;🤖+AI+Security+Learner;🐍+Python+for+Security+Automation;📚+Learning+Today.+Securing+Tomorrow.;🚀+Building+Cloud+Security+Projects" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Cloud+Security+Engineer;Cyber+Security+Student;AWS+Cloud+Security;AI+Security+Learner;Python+for+Security+Automation;Learning+Today.+Securing+Tomorrow." alt="Typing SVG" />
+</a>
 
 </div>
 
