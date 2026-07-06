@@ -1,38 +1,46 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=240&section=header&text=Madhukar%20Pendalwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20Ethical%20Hacker&descSize=19&descAlignY=58&descColor=7DD3FC"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F4C81,100:00C2FF&height=240&section=header&text=Madhukar%20Pendalwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Security%20%7C%20Cybersecurity%20%7C%20AI%20Security&descSize=20&descAlignY=58&descColor=7DD3FC"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Securing+the+digital+world%2C+one+line+at+a+time;Red+Team+%7C+Blue+Team+%7C+Security+Analyst;Building+secure+web+applications+%F0%9F%94%90;From+Hyderabad+%E2%80%94+learning%2C+building%2C+securing+%F0%9F%8C%8D" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=☁️+Aspiring+Cloud+Security+Engineer;🔐+Cyber+Security+Student;🛡️+AWS+Cloud+Security+%7C+IAM+%7C+Linux;🤖+AI+Security+Learner;🐍+Python+for+Security+Automation;📚+Learning+Today.+Securing+Tomorrow.;🚀+Building+Cloud+Security+Projects" alt="Typing SVG"/>
+
 </div>
 
-<br/>
+<br>
 
-<!-- Social Badges -->
+<!-- Social Links -->
 <div align="center">
-  <a href="https://linkedin.com/in/madhukar-pendalwar-2a5746348">
-    <img src="https://img.shields.io/badge/LinkedIn-Madhukar%20Pendalwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:madhukarpendalwar43@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-madhukarpendalwar43-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/pendalwarmadhukar">
-    <img src="https://img.shields.io/badge/GitHub-pendalwarmadhukar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/madhukar-pendalwar-2a5746348">
+<img src="https://img.shields.io/badge/LinkedIn-Madhukar%20Pendalwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:madhukarpendalwar43@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pendalwarmadhukar">
+<img src="https://img.shields.io/badge/GitHub-pendalwarmadhukar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pendalwarmadhukar&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Security%20Roles-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20In-Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-f59e0b?style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=pendalwarmadhukar&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Cloud%20Security%20Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%7C%20AI%20Security-blueviolet?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -43,36 +51,63 @@
 
 ```yaml
 Name     : Pendalwar Madhukar
-Role     : Cybersecurity Student & Full-Stack Developer
+Role     : Cyber Security Student | Aspiring Cloud Security Engineer
 Degree   : B.Tech CSE (Cyber Security) — 2024–2028 (Expected: 2028)
 College  : Siddhartha Institute of Technology & Science, Hyderabad
+
 Contact  : +91 7032275226
 Email    : madhukarpendalwar43@gmail.com
+LinkedIn : linkedin.com/in/madhukar-pendalwar-2a5746348
+GitHub   : github.com/your-username
 
 Coursework:
-  - Cybersecurity & Ethical Hacking
-  - Web Application Development
-  - Database Management Systems (DBMS)
-  - Computer Networks & Network Security
+  - Cyber Security Fundamentals
+  - Cloud Computing
+  - Computer Networks
+  - Network Security
   - Operating Systems
+  - Database Management Systems
   - Data Structures & Algorithms
 
-Currently:
-  - Mastering Penetration Testing & Ethical Hacking
-  - Building Secure Web Apps with JWT & Role-Based Access Control
-  - Exploring Red Team & Blue Team Security Strategies
+Currently Learning:
+  - AWS Cloud Security
+  - Identity & Access Management (IAM)
+  - Cloud Monitoring (CloudTrail, CloudWatch)
+  - Security Operations (SOC)
+  - Linux Administration
+  - Python for Security Automation
+  - AI for Cyber Security
+  - DevSecOps Fundamentals
+
+Hands-on Experience:
+  - AWS Security Labs
+  - Cloud Security Projects
+  - Security Monitoring
+  - Capture The Flag (CTF)
+  - Security Automation Scripts
+  - Git & GitHub
 
 Focus Areas:
-  - Secure Web Application Development
-  - Ethical Hacking & Vulnerability Assessment
-  - Network Security Analysis
-  - Cloud Security & Threat Detection
+  - Cloud Security
+  - AI Security
+  - Identity & Access Management
+  - Threat Detection & Incident Response
+  - Security Automation
+  - DevSecOps
+  - Network Security
 
-Fun Fact  : I turn security vulnerabilities into learning opportunities! 🔐
+Career Goal:
+  Become a Cloud Security Engineer specializing in
+  securing cloud infrastructure using AI-powered
+  security solutions and automation.
+
+Motto:
+  Learning Today.
+  Securing Tomorrow.
+  Building a Safer Digital World. ☁️🔐
 ```
 
 <br clear="right"/>
-
 ---
 
 ## 🎓 Education
