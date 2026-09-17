@@ -7,12 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Madhukar%20Pendalwar&fontSize=42&fontColor=00E5FF&fontAlignY=35&desc=Cyber%20Investigation%20|%20Cybersecurity%20|%20Cloud%20Security%20|%20SOC&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ============================== -->
-<!-- PROFILE PHOTO -->
-<!-- ============================== -->
-
-<img src="https://raw.githubusercontent.com/pendalwarmadhukar/pendalwarmadhukar/main/assets/profile.png" width="180" alt="Madhukar Pendalwar"/>
-
-<!-- ============================== -->
 <!-- TYPING ANIMATION -->
 <!-- ============================== -->
 
@@ -45,9 +39,13 @@
 
 ## 🛡️ About Me
 
+<img src="https://raw.githubusercontent.com/pendalwarmadhukar/pendalwarmadhukar/main/profile.png" width="180" align="right" alt="Madhukar Pendalwar"/>
+
 I'm a 3rd-year B.Tech Computer Science & Engineering student specializing in **Cyber Security**, currently building my foundation across cyber investigation, defensive security, and cloud security. I'm working toward a career that blends **SOC operations**, **incident investigation**, and **cloud security engineering** — with AWS as my primary cloud focus.
 
 I like understanding how incidents unfold: how attacks happen, how evidence is collected and analyzed, and how defenses are designed to catch the next one. My learning is centered on **investigation, detection, and defense**, rather than one narrow track.
+
+<br clear="right"/>
 
 ```yaml
 Name: Madhukar Pendalwar
